@@ -30,7 +30,7 @@ The results that can be observed from the summary statistics for the months of J
 
 - Month of June had a low temperature of **64°F** and high temperature of **85°F**. Whereas December had a low and a high temperatures of **56°F** and **83°F** respectively. Thus, indicating that June was slightly warmer than December.
 
-- Looking at the **75th** percentiles of **77°F** and **74°F** in months of June and December respectively it is evident that both of these months had relatively warm temperature every year with June being slightly warmer than December.
+- Looking at the **75th** percentiles of **77°F** and **74°F** in months of June and December respectively it is evident that both of these months had relatively warm temperatures with June being slightly warmer than December.
 
 - June and December had a roughly similar standard deviations of **3.26** and **3.75** respectively. Since the standard deviation for temperatures of both the months were roughly low, this indicates that the temperature did not vary much in both of these months.
 
@@ -52,7 +52,7 @@ In addition to temperature data, two additional queries were performed for retri
 
 As it is depicted in the two figures shown above, June had an average precipitation of **0.14 inches** while December had an average precipitation of **0.22 inches**. This indicates that Oahu does not experience heavy rainfalls which is a positive point in addition to its warm weather for building a Surf and Ice Cream shop. Furthermore, a histogram was plotted using the queries and the DataFrames created for visualizing the frequency of precipitation observation in June and December as demonstrated in the figures below.
 
-**Precipitation observation in June:*
+*Precipitation observation in June:*
 
 ![Precipitation observation in June](Resources/June_prcp_histogram.png)
 
